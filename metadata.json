@@ -1,0 +1,6 @@
+{
+  "name": "ProPhoto Studio",
+  "description": "Professional browser-based photo editor with non-destructive adjustments, curves, layers, filters, local cutout, and high-fidelity export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
